@@ -16,3 +16,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Em varios momentos das aulas, me deparei com alguns problemas, como por exemplo a versão do angular que usei que foi diferente da usada em aula.
 O projeto foi desenvolvido com o Angular Framework versão 17.0.5, e nesse caso tive que importar nas minhas classes .ts o modulo `CommonModule` para que 
 fosse reconhecido os bindings e as funções dentro das tags html. `=)`
+Alem das aulas a Documentação do Angular me ajudou muito, então qualquer duvida utilize a Documentação!!!
